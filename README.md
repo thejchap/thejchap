@@ -10,10 +10,8 @@
 - I contribute to open source occasionally:
   - [ty] Add support for the new `copy.replace` and `__replace__` protocol added in Python 3.13
     - https://github.com/astral-sh/ruff/pull/19545 
-  - [ty] Add `--respect-ignore-files` flag
-    - https://github.com/astral-sh/ruff/pull/17645
-  - [ty] add `--config-file` flag
-    - https://github.com/astral-sh/ruff/pull/18083
+  - [ty] Support `.name` and `.value` on enum members
+    - https://github.com/astral-sh/ruff/pull/20311
   - [ty] Support frozen dataclasses
     - https://github.com/astral-sh/ruff/pull/17974
     - https://github.com/astral-sh/ruff/pull/19307
