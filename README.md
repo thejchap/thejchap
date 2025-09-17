@@ -15,5 +15,5 @@
   - [ty] Support frozen dataclasses
     - https://github.com/astral-sh/ruff/pull/17974
     - https://github.com/astral-sh/ruff/pull/19307
-  - [ty] support `kw_only=True` for `dataclass()` and `field()`
+  - [ty] Support `kw_only=True` for `dataclass()` and `field()`
     - https://github.com/astral-sh/ruff/pull/19677
