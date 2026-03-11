@@ -1,12 +1,7 @@
 - I am currently CTO at [Anuvi](https://anuvi.io/), building a fully-automated, hassle-free COBRA/continuing coverage experience for employees, employers, and insurance brokers
 - Previously I was a software engineer at Instagram, working on the Feed and Explore surfaces
 - I can be reached at [justin@anuvi.io](justin@anuvi.io)
-- I've built some random fun projects:
-  - [diffswarm](https://diffswarm.dev/) - github-style review and workflow for any unified diff
-  - [zany](https://zany.sh/) - favicons-as-a-service
-  - [jdb](https://github.com/thejchap/jdb) - a distributed key-value store in python
-  - [smolfaas](https://github.com/thejchap/smolfaas) - cloudflare workers in <1k loc
-  - [juniper-remixer](https://github.com/thejchap/juniper) - browser-based remixer of a song off my brother's band's album
+- I've built some random fun projects that can be seen below in my pins
 - I contribute to open source occasionally:
   - [ty] Add support for the new `copy.replace` and `__replace__` protocol added in Python 3.13
     - https://github.com/astral-sh/ruff/pull/19545 
