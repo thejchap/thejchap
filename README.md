@@ -3,12 +3,14 @@
 - I can be reached at [justin@anuvi.io](justin@anuvi.io)
 - I've built some random fun projects that can be seen below in my pins
 - I contribute to open source occasionally:
-  - [ty] Add support for the new `copy.replace` and `__replace__` protocol added in Python 3.13
-    - https://github.com/astral-sh/ruff/pull/19545 
-  - [ty] Support `.name` and `.value` on enum members
-    - https://github.com/astral-sh/ruff/pull/20311
-  - [ty] Support frozen dataclasses
-    - https://github.com/astral-sh/ruff/pull/17974
-    - https://github.com/astral-sh/ruff/pull/19307
-  - [ty] Support `kw_only=True` for `dataclass()` and `field()`
-    - https://github.com/astral-sh/ruff/pull/19677
+  - ty
+    - `copy.replace` and `__replace__` protocol added in Python 3.13 [[1](https://github.com/astral-sh/ruff/pull/19545)]
+    - `.name` and `.value` on enum members [[1](https://github.com/astral-sh/ruff/pull/20311)]
+    - Frozen dataclasses [[1](https://github.com/astral-sh/ruff/pull/17974)][[2](https://github.com/astral-sh/ruff/pull/21430)]
+    - `slots=True` dataclasses [[1](https://github.com/astral-sh/ruff/pull/20278)]
+    - `kw_only=True` for `dataclass()` and `field()` [[1](https://github.com/astral-sh/ruff/pull/19677)]
+    - `order=True` dataclasse diagnostics [[1](https://github.com/astral-sh/ruff/pull/22689)]
+    - functional `Enum(...)` syntax [[1](https://github.com/astral-sh/ruff/pull/23602)]
+  - uv
+    - `--offline` flag for git operations [[1](https://github.com/astral-sh/uv/pull/12619)]
+    - `--marker` flag for `uv add` [[1](https://github.com/astral-sh/uv/pull/12012)]
